@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">👋 Hi there! I'm Uthkrushta Mathur</h1>
 <h3 align="center">A passionate AI/ML Researcher and Computer Science Enthusiast with a keen interest in developing data-driven solutions and conducting groundbreaking research in the field of Geospatial Analytics and Remote Sensing. 🚀</h3>
